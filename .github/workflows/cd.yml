@@ -35,4 +35,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: your-dockerhub-username/ml-cicd-demo:latest
+          tags: pawan407/ml-cicd-demo:latest
